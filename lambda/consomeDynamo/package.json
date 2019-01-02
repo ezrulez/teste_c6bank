@@ -1,0 +1,10 @@
+{
+    "name": "leDynamo",
+    "version": "1.0.0",
+    "description": "Servico de ApiGateway que le a tabela do dynamodb",
+    "author": "Jose Mateus Silverio",
+    "license": "MIT",
+    "dependencies": {
+        "serverless-python-requirements": "^3.6"
+    }
+}
